@@ -1,10 +1,3 @@
-# Getting started
-
-This repository is a sample application for users following the getting started guide at https://docs.docker.com/get-started/.
-
-
-The application is based on the application from the getting started tutorial at https://github.com/docker/getting-started
-
 ## Get started
 - Clone a sample git repository using the below command or use your project for the demo:
 
@@ -74,3 +67,4 @@ docker logs containername
 or
 docker logs containerid
 ```
+
